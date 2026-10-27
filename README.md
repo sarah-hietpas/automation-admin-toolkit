@@ -1,5 +1,5 @@
-# powershell-admin-toolkit
-A collection of PowerShell scripts for Azure, Entra ID, Microsoft 365, AWS, Windows administration, security, and automation.
+# automation-admin-toolkit
+A collection of automation scripts for Azure, Entra ID, Microsoft 365, AWS, Windows administration, security, and automation.
 
 ## Categories
 
@@ -11,17 +11,6 @@ A collection of PowerShell scripts for Azure, Entra ID, Microsoft 365, AWS, Wind
 - Power Platform
 - Security
 - General Utilities
-
-## Requirements
-
-Most scripts require PowerShell 7+.
-
-Some scripts require modules including:
-
-- Microsoft.Graph
-- Az
-- AWS.Tools
-- Microsoft.PowerApps.Administration.PowerShell
 
 ## Disclaimer
 
