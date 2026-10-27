@@ -1,0 +1,39 @@
+# VS Code personal settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell temporary / generated files
+*.tmp
+*.log
+*.bak
+
+# PowerShell module/build output
+bin/
+obj/
+
+# Environment and secret files
+.venv
+.env
+.env.*
+*.secret
+*.secrets
+
+# Credentials / certificates
+*.pfx
+*.p12
+*.key
+*.pem
+
+# Local exports / reports
+*.csv
+*.xlsx
+
+# Temporary files
+~$*
+*~
